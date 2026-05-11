@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="RentPakHaji.Common.Application/RentPakHaji.Common.Application.csproj" />
+  <Project Path="RentPakHaji.Common.Broker/RentPakHaji.Common.Broker.csproj" />
+  <Project Path="RentPakHaji.Common.Contracts/RentPakHaji.Common.Contracts.csproj" />
+  <Project Path="RentPakHaji.Common.Domain/RentPakHaji.Common.Domain.csproj" />
+  <Project Path="RentPakHaji.Common.Infrastructure/RentPakHaji.Common.Infrastructure.csproj" />
+</Solution>

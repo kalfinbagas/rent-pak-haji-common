@@ -1,0 +1,15 @@
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\bin\Debug\net10.0\RentPakHaji.Common.Broker.deps.json
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\bin\Debug\net10.0\RentPakHaji.Common.Broker.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\bin\Debug\net10.0\RentPakHaji.Common.Broker.pdb
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\bin\Debug\net10.0\RentPakHaji.Common.Contracts.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\bin\Debug\net10.0\RentPakHaji.Common.Contracts.pdb
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.csproj.AssemblyReference.cache
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.AssemblyInfoInputs.cache
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.AssemblyInfo.cs
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.csproj.CoreCompileInputs.cache
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakH.B4B6F7D6.Up2Date
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\refint\RentPakHaji.Common.Broker.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\RentPakHaji.Common.Broker.pdb
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Broker\obj\Debug\net10.0\ref\RentPakHaji.Common.Broker.dll

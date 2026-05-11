@@ -1,0 +1,12 @@
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\bin\Debug\net10.0\RentPakHaji.Common.Contracts.deps.json
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\bin\Debug\net10.0\RentPakHaji.Common.Contracts.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\bin\Debug\net10.0\RentPakHaji.Common.Contracts.pdb
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.csproj.AssemblyReference.cache
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.AssemblyInfoInputs.cache
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.AssemblyInfo.cs
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\refint\RentPakHaji.Common.Contracts.dll
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\RentPakHaji.Common.Contracts.pdb
+C:\Users\2130\Documents\kalfin\Portofolio\rent-pak-haji\libs\common\RentPakHaji.Common.Contracts\obj\Debug\net10.0\ref\RentPakHaji.Common.Contracts.dll
